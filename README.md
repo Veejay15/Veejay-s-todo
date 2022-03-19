@@ -3,6 +3,10 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/Veejay15/Task-manager/main/Task%20Manager.PNG" alt="" width="900px"/> </p>
 
 # Getting Started :dart:
+
+
+# Features :joystick:
+
 <ul>
     <li>User can can create/register his/her account</li>
     <li>User can log out and log on registered account</li>
@@ -11,7 +15,7 @@
     <li>CRUD resources on Task</li>
 <li>Email notification to users after task creation and completion</li>
  </ul>
- 
+Documentation :scroll:
 <div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="git clone https://github.com/Veejay15/veejay-s-todo.git
 Run command composer install
 Run cp .env.example .env
@@ -36,5 +40,4 @@ Generate app key by running php artisan key:generate
 <div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="php artisan migrate --seed
 ">
 <pre><code>php artisan migrate --seed
-</code></pre>
-</div>
+
