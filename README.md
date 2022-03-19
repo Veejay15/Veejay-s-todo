@@ -1,5 +1,7 @@
 <h1>Task Manager created using Laravel-Vue </h1>
 
+<p align="left"> <img src="https://raw.githubusercontent.com/Veejay15/Task-manager/main/Task%20Manager.PNG" alt="" width="900px"/> </p>
+
 # Getting Started :dart:
 <ul>
     <li>User can can create/register his/her account</li>
