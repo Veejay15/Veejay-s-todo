@@ -2,7 +2,7 @@
 <ul>
     <li>User can can create/register his/her account</li>
     <li>User can log out and log on registered account</li>
-    <li>Registered Users can assign task to user</li>
+    <li>Registered Users can assign task to other registered user</li>
     <li>Registered Users can create,  edit, update, and delete task </li>
     <li>CRUD resources on Task</li>
 <li>Email notification to users after task creation and completion</li>
