@@ -1,4 +1,6 @@
 <h1>Task Manager created using Laravel-Vue </h1>
+
+# Getting Started :dart:
 <ul>
     <li>User can can create/register his/her account</li>
     <li>User can log out and log on registered account</li>
